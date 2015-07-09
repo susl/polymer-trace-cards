@@ -1,3 +1,11 @@
+node_modules
+dist
+test/temp
+bower_components
+.tmp
+test/bower_components/
+
+
 # Windows image file caches
 Thumbs.db
 ehthumbs.db
